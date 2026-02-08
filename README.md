@@ -604,10 +604,6 @@ If you're new to Computer Vision or Deep Learning, check out:
 
 ### ⭐ Star this repo if you find it helpful!
 
-Made with ❤️ by the HelmNet Team
 
-[Report Bug](https://github.com/yourusername/helmnet/issues) · 
-[Request Feature](https://github.com/yourusername/helmnet/issues) · 
-[Documentation](https://github.com/yourusername/helmnet/wiki)
 
 </div>
